@@ -198,7 +198,7 @@ class HorarioScreen extends StatelessWidget{
     Widget build(BuildContext context){
       return Scaffold(
      appBar: AppBar(
-        title: Text('Horários De Aula'),
+        title: Text('Horários de Aula'),
         ),
        );
     }
